@@ -1,0 +1,12 @@
+# of converted cubes = 0
+{"loc_x":25.0,"loc_y":435.0,"argb_color":-1873232,"uid":8,"team_id":0,"food":true,"Name":"","Mass":1.0}rue,"Name":"","Mass":1.0}
+{"loc_x":554.0,"loc_y":34.0,"argb_color":-2887060,"uid":10,"team_id":0,"food":true,"Name":"","Mass":1.0}
+{"loc_x":154.0,"loc_y":162.0,"argb_color":-14318411,"uid":11,"team_id":0,"food":true,"Name":"","Mass":1.0}
+{"loc_x":41.0,"loc_y":266.0,"argb_color":-14057844,"uid":12,"team_id":0,"food":true,"Name":"","Mass":1.0}
+{"loc_x":342.0,"loc_y":50.0,"argb_color":-10320512,"uid":13,"team_id":0,"food":true,"Name":"","Mass":1.0}
+{"loc_x":371.0,"loc_y":539.0,"argb_color":-11217185,"uid":14,"team_id":0,"food":true,"Name":"","Mass":1.0}
+{"loc_x":600.0,"loc_y":684.0,"argb_color":-8980441,"uid":15,"team_id":0,"food":true,"Name":"","Mass":1.0}
+{"loc_x":370.0,"loc_y":345.0,"argb_color":-11521511,"uid":16,"team_id":0,"food":true,"Name":"","Mass":1.0}
+{"loc_x":142.0,"loc_y":482.0,"argb_color":-11224573,"uid":17,"team_id":0,"food":true,"Name":"","Mass":1.0}
+{"loc_x":377.0,"loc_y":22.0,"argb_color":-5774861,"uid":18,"team_id":0,"food":true,"Name":"","Mass":1.0}
+{"loc_x":66.0,"loc_y":412.0,"argb_color":-

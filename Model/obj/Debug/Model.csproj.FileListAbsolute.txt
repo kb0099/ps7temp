@@ -1,0 +1,7 @@
+P:\repos\00801798\PS7\Model\bin\Debug\Model.dll
+P:\repos\00801798\PS7\Model\bin\Debug\Model.pdb
+P:\repos\00801798\PS7\Model\bin\Debug\Newtonsoft.Json.dll
+P:\repos\00801798\PS7\Model\bin\Debug\Newtonsoft.Json.xml
+P:\repos\00801798\PS7\Model\obj\Debug\Model.dll
+P:\repos\00801798\PS7\Model\obj\Debug\Model.pdb
+P:\repos\00801798\PS7\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+P:\repos\00801798\PS7\Resources\bin\Debug\Resources.dll.config
+P:\repos\00801798\PS7\Resources\bin\Debug\Resources.dll
+P:\repos\00801798\PS7\Resources\bin\Debug\Resources.pdb
+P:\repos\00801798\PS7\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache
+P:\repos\00801798\PS7\Resources\obj\Debug\Resources.dll
+P:\repos\00801798\PS7\Resources\obj\Debug\Resources.pdb

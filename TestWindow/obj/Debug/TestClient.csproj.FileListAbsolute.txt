@@ -1,0 +1,12 @@
+P:\repos\00801798\PS7\TestWindow\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+P:\repos\00801798\PS7\TestWindow\bin\Debug\TestWindow.exe.config
+P:\repos\00801798\PS7\TestWindow\bin\Debug\TestWindow.exe
+P:\repos\00801798\PS7\TestWindow\bin\Debug\TestWindow.pdb
+P:\repos\00801798\PS7\TestWindow\bin\Debug\Model.dll
+P:\repos\00801798\PS7\TestWindow\bin\Debug\Network_Controller.dll
+P:\repos\00801798\PS7\TestWindow\bin\Debug\Newtonsoft.Json.dll
+P:\repos\00801798\PS7\TestWindow\bin\Debug\Model.pdb
+P:\repos\00801798\PS7\TestWindow\bin\Debug\Network_Controller.pdb
+P:\repos\00801798\PS7\TestWindow\bin\Debug\Newtonsoft.Json.xml
+P:\repos\00801798\PS7\TestWindow\obj\Debug\TestWindow.exe
+P:\repos\00801798\PS7\TestWindow\obj\Debug\TestWindow.pdb

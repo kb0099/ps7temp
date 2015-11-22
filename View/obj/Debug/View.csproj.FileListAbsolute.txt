@@ -1,0 +1,16 @@
+P:\repos\00801798\PS7\View\bin\Debug\View.exe
+P:\repos\00801798\PS7\View\bin\Debug\View.pdb
+P:\repos\00801798\PS7\View\bin\Debug\Model.dll
+P:\repos\00801798\PS7\View\bin\Debug\Newtonsoft.Json.dll
+P:\repos\00801798\PS7\View\bin\Debug\Network_Controller.dll
+P:\repos\00801798\PS7\View\bin\Debug\Network_Controller.pdb
+P:\repos\00801798\PS7\View\bin\Debug\Model.pdb
+P:\repos\00801798\PS7\View\bin\Debug\Newtonsoft.Json.xml
+P:\repos\00801798\PS7\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+P:\repos\00801798\PS7\View\obj\Debug\AgCubio.GameForm.resources
+P:\repos\00801798\PS7\View\obj\Debug\View.Properties.Resources.resources
+P:\repos\00801798\PS7\View\obj\Debug\View.csproj.GenerateResource.Cache
+P:\repos\00801798\PS7\View\obj\Debug\View.exe
+P:\repos\00801798\PS7\View\obj\Debug\View.pdb
+P:\repos\00801798\PS7\View\bin\Debug\View.exe.config
+P:\repos\00801798\PS7\View\obj\Debug\AgCubio.LoginForm.resources

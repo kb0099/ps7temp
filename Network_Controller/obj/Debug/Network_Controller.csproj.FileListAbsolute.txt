@@ -1,0 +1,5 @@
+P:\repos\00801798\PS7\Network_Controller\bin\Debug\Network_Controller.dll
+P:\repos\00801798\PS7\Network_Controller\bin\Debug\Network_Controller.pdb
+P:\repos\00801798\PS7\Network_Controller\obj\Debug\Network_Controller.csprojResolveAssemblyReference.cache
+P:\repos\00801798\PS7\Network_Controller\obj\Debug\Network_Controller.dll
+P:\repos\00801798\PS7\Network_Controller\obj\Debug\Network_Controller.pdb
